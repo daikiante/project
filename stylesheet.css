@@ -1,0 +1,100 @@
+body {
+font-family: 'Avenir','Helvetica Neue','Helvetica','Arial','Hiragino Sans','ヒラギノ角ゴシック',YuGothic,'Yu Gothic','メイリオ', Meiryo,'ＭＳ Ｐゴシック','MS PGothic'
+}
+
+
+.logo {
+  font-family: 'Quicksand', sans-serif;
+  font-size: 100px;
+  font-weight: lighter;
+  width: 20%;
+  padding-left: 5%;
+  margin-top: 45px;
+}
+
+ul {
+  float: right;
+  width:100%;
+}
+
+.list li {
+  list-style: none;
+  font-family: 'Quicksand', sans-serif;
+  font-size: 43px;
+  float: right;
+  padding-right: 40px;
+  padding-bottom: 40px;
+}
+
+.main_img {
+  width: 100%;
+  height: auto;
+}
+
+.contents_wrapper {
+  padding: 1px;
+}
+
+.main_ttl {
+  font-family: 'Quicksand', sans-serif;
+  font-size: 75px;
+  font-weight: lighter;
+  text-align: center;
+}
+
+
+.wn {
+  display: inline-block;
+  float: left;
+  width: 33%
+}
+
+.wn_img_1 {
+  width: 150px;
+  height: auto;
+  margin-left: 160px;
+}
+
+.wn_img_2 {
+  width: 73px;
+  height: auto;
+    margin-left: 200px;
+}
+
+.wn_img_3 {
+  width: 115px;
+  height: auto;
+    margin-left: 180px;
+}
+
+.wn_ttl {
+  font-family: 'Quicksand', sans-serif;
+  font-size: 35px;
+  text-align: center;
+}
+
+.wn_txt {
+  font-family: 'Quicksand', sans-serif;
+font-size: 20px;
+  text-align: center;
+}
+
+.trip_title h2 {
+    font-family: 'Quicksand', sans-serif;
+    font-size: 75px;
+    font-weight: lighter;
+    text-align: center;
+}
+
+.tp_photo1 {
+  width: 25%;
+  height: auto;
+  margin-left: 6%;
+}
+
+.tp_photo2 {
+  width: 25%;
+  height: auto;
+  margin-left: 6%;
+  margin-top: 80px;
+}
